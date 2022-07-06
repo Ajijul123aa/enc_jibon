@@ -16,7 +16,7 @@
 
 ```apt install git python -y```
 
-```git clone https://github.com/Ajijul123aa/enc_jibon```
+```git clone https://github.com/MRJIBON/enc_jibon```
 
 ```cd enc_jibon```
 
@@ -27,7 +27,7 @@
 
 ### Or, Use Single Command
 ```
-apt install git python -y && git clone https://github.com/Ajijul123aa/enc_jibon && cd enc_jibon && bash requirements.sh && python enc_jibon.py
+apt install git python -y && git clone https://github.com/MRJIBON/enc_jibon && cd enc_jibon && bash requirements.sh && python enc_jibon.py
 ``` 
 
 ### Features:
